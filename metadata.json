@@ -1,0 +1,5 @@
+{
+  "name": "BookLibrary",
+  "description": "A high-converting web platform for discovering, borrowing, and reviewing books with a search-first interface.",
+  "requestFramePermissions": []
+}
